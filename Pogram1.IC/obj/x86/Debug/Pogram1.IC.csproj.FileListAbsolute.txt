@@ -1,0 +1,10 @@
+c:\users\рафаэль\documents\visual studio 2010\Projects\Pogram1.IC\Pogram1.IC\bin\Debug\Pogram1.IC.exe
+c:\users\рафаэль\documents\visual studio 2010\Projects\Pogram1.IC\Pogram1.IC\bin\Debug\Pogram1.IC.pdb
+c:\users\рафаэль\documents\visual studio 2010\Projects\Pogram1.IC\Pogram1.IC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\рафаэль\documents\visual studio 2010\Projects\Pogram1.IC\Pogram1.IC\obj\x86\Debug\Pogram1.IC.exe
+c:\users\рафаэль\documents\visual studio 2010\Projects\Pogram1.IC\Pogram1.IC\obj\x86\Debug\Pogram1.IC.pdb
+G:\архитектура\Pogram1.IC\Pogram1.IC\obj\x86\Debug\Pogram1.IC.exe
+G:\архитектура\Pogram1.IC\Pogram1.IC\obj\x86\Debug\Pogram1.IC.pdb
+G:\архитектура\Pogram1.IC\Pogram1.IC\bin\Debug\Pogram1.IC.exe
+G:\архитектура\Pogram1.IC\Pogram1.IC\bin\Debug\Pogram1.IC.pdb
+G:\архитектура\Pogram1.IC\Pogram1.IC\obj\x86\Debug\ResolveAssemblyReference.cache
